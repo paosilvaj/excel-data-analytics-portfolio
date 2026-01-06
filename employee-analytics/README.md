@@ -16,9 +16,9 @@
 ![Gender Distribution](screenshots/employee_overview.png)
 
 ### Stress Level by Department and Job Level by Department
-![Stress Level by Department and Job Level by Department](analysis_overview.png)
+![Stress Level by Department and Job Level by Department](screenshots/analysis_overview.png)
 
 ### Distribution of Job Level and Overall Conclusions
-![Distribution of Job Level](analysis_section4_conclusions.png)
+![Distribution of Job Level](screenshots/analysis_section4_conclusions.png)
 
 > Note: This analysis uses a public dataset for demonstration and portfolio purposes.
