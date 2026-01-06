@@ -10,4 +10,12 @@
 - KPI interpretation (total vs average)
 - Insight writing
 
+## Preview
+
+### Overview – Total Order Amount & Top Cities
+![Customer Analytics Overview](screenshots/overview..png)
+
+### Analysis & Conclusions – Average Order Amount
+![Customer Analytics Analysis](screenshots/analysis_section_conclusion.png)
+
 > Note: This analysis uses a public dataset for demonstration and portfolio purposes.
