@@ -10,4 +10,12 @@
 - Business reporting with charts
 - Insight writing
 
+## Preview
+
+### Overview
+![Sales Analytics Overview](screenshots/overview.png)
+
+### Analysis & Conclusions 
+![Sales Analytics Analysis](screenshots/conclusion.png)
+
 > Note: This analysis uses a public dataset for demonstration and portfolio purposes.
