@@ -28,3 +28,25 @@ Esta es una colección de reportes analiticos en excel usando tablas dinámicas,
 
 **Notas**
 Los datasets utilizados son públicos y fueron analizados exclusivamente para demostración.
+
+## Previews
+# Sales Analytics Report (Excel)
+### Overview
+![Sales Analytics Overview](sales-analytics/screenshots/overview.png)
+### Analysis & Conclusions 
+![Sales Analytics Analysis](sales-analytics/screenshots/conclusions.png)
+
+# Employee Analytics Report (Excel)
+### Overview – Gender Distribution
+![Gender Distribution]( employee-analytics/screenshots/employee_overview.png)
+### Stress Level by Department and Job Level by Department
+![Stress Level by Department and Job Level by Department]( employee-analytics/screenshots/analysis_overview.png)
+### Distribution of Job Level and Overall Conclusions
+![Distribution of Job Level]( employee-analytics/screenshots/analysis_section4_conclusions.png)
+
+# Customer Analytics Report (Excel)
+### Overview – Total Order Amount & Top Cities
+![Customer Analytics Overview]( customer-analytics/screenshots/overview..png)
+### Analysis & Conclusions – Average Order Amount
+![Customer Analytics Analysis]( customer-analytics/screenshots/analysis_section_conclusion.png)
+
